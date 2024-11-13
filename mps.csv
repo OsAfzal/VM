@@ -1,0 +1,85 @@
+﻿body_type,location,lat,lon,concentration,Year
+River,Siphon,31.721317,74.467281,61,2019
+River,Shadhra,31.606831,74.295939,575 ,2019
+River,Chung,31.447486,74.150442,2993 ,2019
+River,Balloki Barrage US,31.222458,73.869442,558 ,2019
+River,Balloki Barrage DS,31.218425,73.85645,90,2019
+River,Chichawatni,30.576503,72.684092,356,2019
+River,Sidhnai Barrage US,32.678528,74.494786,460,2019
+River,Sidhnai Barrage DS,32.663062,74.464392,203,2019
+River,Siphon,31.721317,74.467281,38,2020
+River,Shadhra,31.606831,74.295939,597,2020
+River,Chung,31.447486,74.150442,1384,2020
+River,Balloki Barrage US,31.222458,73.869442,240,2020
+River,Balloki Barrage DS,31.218425,73.85645,150,2020
+River,Chichawatni,30.576503,72.684092,231,2020
+River,Sidhnai Barrage US,32.678528,74.494786,225,2020
+River,Sidhnai Barrage DS,32.663062,74.464392,207,2020
+Lake,Rawal Lake,33.683333,73.083333,1416,2019
+River,Swat River,35.295722,72.333444,305.79,2023
+River,Ravi Siphon,31.7175,74.473333,110,2019
+River,Ravi Siphon downstream,31.689444,74.360833,200,2019
+River,Shalimar Escape Channel,31.643333,74.341944,3330,2019
+River,Shalimar Escape Channel downstream,31.635556,74.343333,970,2019
+River,Upper Chota Ravi,31.628056,74.34,3440,2019
+River,Upper Chota Ravi downstream,31.623611,74.325833,800,2019
+River,Shahdra Drain,31.614722,74.305,4840,2019
+River,Shahdra Drain downstream,31.590556,74.277222,630,2019
+River,Lower Chota Ravi,31.565,74.265278,2090,2019
+River,Lower Chota Ravi downstream,31.557222,74.256667,1700,2019
+River,Sullage Carrier,31.557222,74.256667,16150,2019
+River,Sullage Carrier downstream,31.556389,74.251111,940,2019
+River,Cantonment Drain,31.5275,74.219444,560,2019
+River,Cantonment Drain downstream,31.507778,74.194722,380,2019
+River,Hudiara Drain,31.469167,74.170833,1790,2019
+River,Upper Chenab canal,31.418611,74.081667,290,2019
+River,Upper Chenab canal downstream,31.334167,74.025278,810,2019
+River,Qadirabad-Balloki canal,31.284167,73.923611,90,2019
+River,Qadirabad-Balloki canal downstream,31.222222,73.856944,300,2019
+Lake,Rawal Lake,33.6833,73.1167,2800,2021
+Sea,Shah Bandar,24.1198,67.9251,464000,2021
+Sea,Kharochan,24.075,67.5753,569000,2021
+Sea,Jhangisur,24.0806,67.6053,517000,2021
+Sea,Ketibandar,24.1278,67.3754,883000,2021
+Sea,Khararo creek,24.5467,67.462,315000,2021
+Sea,Ibrahim hyderi,24.7842,67.1411,686000,2021
+Sea,Clifton,24.7872,67.0447,778000,2021
+Sea,Manora,24.7986,66.9656,1096000,2021
+Sea,Sandspit,24.8508,66.9406,888000,2021
+Sea,Hawksbay,24.8372,66.8172,604000,2021
+Sea,Abdul Rehman Goth,24.8375,66.8137,846000,2021
+Sea,Buleji,24.8339,66.6644,939000,2021
+Sea,Cape monze,24.8406,66.6653,394000,2021
+Sea,Mubarak village,24.8733,66.6825,481000,2021
+Sea,Sunehri,24.4519,66.56,554000,2021
+Sea,Hub estuary,25.4169,65.8639,251000,2021
+Sea,Sonmiani,25.3858,65.4575,941000,2021
+Sea,Sapat,25.3267,64.8889,383000,2021
+Sea,Kund Malir,25.2753,64.5058,296000,2021
+Sea,Ballro,25.2614,64.5136,477000,2021
+Sea,Ormara,25.265,64.0517,351000,2021
+Sea,Thaq,25.3736,64.0628,267000,2021
+Sea,Kalmat (open sea),25.3839,64.0683,750000,2021
+Sea,Kalmat (Mangrove),25.4031,64.0419,331000,2021
+Sea,Kalmat (Village chundi),25.3994,64.0419,492000,2021
+Lake,Naltar Blue,36.2395,74.0862,9,2020
+Lake,Naltar green,36.2317,74.1072,8.5,2020
+Lake,Batura Lake,36.5128,74.867,2.6,2020
+Lake,Borith Lake,36.4304,74.8627,11.7,2020
+Lake,Passu lake,36.4582,74.8803,4.9,2020
+Lake,Khalti Lake,36.2493,73.3634,4.9,2020
+Lake,Attabad lake,36.3369,74.8675,17,2020
+Lake,Upper kachura lake,35.4482,75.4451,2,2020
+River,Balloki Headworks,31.1897,73.8778,3,2020
+River,Soan River,33.0225,71.72261,255,2020
+River,Soan River,33.02252,71.72298,320,2020
+River,Soan River,33.02251,71.72273,641.3,2020
+River,Soan River,33.02212,71.72286,179.3,2020
+River,Soan River,33.02196,71.72318,148,2020
+River,Soan River,33.02184,71.72322,132.7,2020
+River,Soan River,33.02098,71.72258,281.7,2020
+River,Soan River,33.02074,71.72295,233.7,2021
+River,Soan River,33.02071,71.72303,270,2021
+River,Soan River,33.02082,71.72216,268.7,2021
+River,Soan River,33.02064,71.72263,283.3,2021
+River,Soan River,33.02213,71.72255,518,2021
