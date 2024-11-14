@@ -2,7 +2,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow
-keras
 statsmodels
 scipy
